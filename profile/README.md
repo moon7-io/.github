@@ -25,7 +25,7 @@ These libraries have been officially released with documentation and are availab
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! See our [contributing guide](https://github.com/moon7-io/.github/blob/main/CONTRIBUTING.md) for more details on how to get involved.
+We welcome contributions from everyone! See our [contributing guide](https://github.com/moon7-io/.github/blob/main/CONTRIBUTING.md) for more details on how to get involved. Please feel free to submit a Pull Request.
 
 ## 📝 License
 
