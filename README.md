@@ -39,4 +39,4 @@ All Moon7 libraries are released under the [MIT License](LICENSE) unless otherwi
 
 Moon7 is created and maintained by [Munir Hussin](https://github.com/profound7).
 
-[![](https://images.weserv.nl/?url=github.com/profound7.png?v=4&h=32&w=32&fit=cover&mask=circle&maxage=7d)](https://github.com/profound7)
+[![](https://images.weserv.nl/?url=github.com/profound7.png?v=4&w=32&fit=cover&mask=circle&maxage=7d)](https://github.com/profound7)
