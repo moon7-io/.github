@@ -16,7 +16,6 @@ Our philosophy is simple:
 
 These libraries have been officially released with documentation and are available on npm:
 
-
 | Library                                                     | Description                                                                | npm                                                                                                             |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [@moon7/async](https://github.com/moon7-io/moon7-async)     | Asynchronous utilities for promises, semaphores, and concurrent operations | [![npm version](https://img.shields.io/npm/v/@moon7/async.svg)](https://www.npmjs.com/package/@moon7/async)     |
@@ -24,7 +23,7 @@ These libraries have been officially released with documentation and are availab
 | [@moon7/inspect](https://github.com/moon7-io/moon7-inspect) | Runtime type checking with powerful, composable type inspectors            | [![npm version](https://img.shields.io/npm/v/@moon7/inspect.svg)](https://www.npmjs.com/package/@moon7/inspect) |
 | [@moon7/result](https://github.com/moon7-io/moon7-result)   | Functional error handling with Result and Maybe types                      | [![npm version](https://img.shields.io/npm/v/@moon7/result.svg)](https://www.npmjs.com/package/@moon7/result)   |
 | [@moon7/signals](https://github.com/moon7-io/moon7-signals) | Reactive programming with Signals, Sources, and Streams                    | [![npm version](https://img.shields.io/npm/v/@moon7/signals.svg)](https://www.npmjs.com/package/@moon7/signals) |
-| [@moon7/sort](https://github.com/moon7-io/moon7-sort)       | Efficient sorting algorithms and utilities for various data types          | [![npm version](https://img.shields.io/npm/v/@moon7/sort.svg)](https://www.npmjs.com/package/@moon7/sort)       |
+| [@moon7/sort](https://github.com/moon7-io/moon7-sort)       | Composable sorting functions for arrays and collections                    | [![npm version](https://img.shields.io/npm/v/@moon7/sort.svg)](https://www.npmjs.com/package/@moon7/sort)       |
 
 ## 🤝 Contributing
 
